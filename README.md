@@ -1,0 +1,1 @@
+# Exemplo de implementação simples de uma aplicação para detecção de objetos
